@@ -1,0 +1,50 @@
+[
+   {
+      "product":"Television",
+      "brand":"LG",
+      "price":10000,
+      "madein":true
+   },
+   {
+      "product":"Fridge",
+      "brand":"Whirlpool",
+      "price":13000,
+      "madein":false
+   },
+   {
+      "product":"Computer",
+      "brand":"DELL",
+      "price":45000,
+      "madein":true
+   },
+      {
+      "product":"Playstation",
+      "brand":"Sony",
+      "price":50000,
+      "madein":true
+   },
+      {
+      "product":"Home Theatre",
+      "brand":"Samsung",
+      "price":80000,
+      "madein":false
+   },
+      {
+      "product":"Mobile",
+      "brand":"VIVO",
+      "price":18000,
+      "madein":true
+   },
+      {
+      "product":"DVD Player",
+      "brand":"Onida",
+      "price":5000,
+      "madein":true
+   },
+      {
+      "product":"Induction Stove",
+      "brand":"Butterfly",
+      "price":12000,
+      "madein":true
+   }]
+   
